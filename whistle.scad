@@ -1,6 +1,6 @@
 //Basic whistle
-$fs = 0.5; //Set to 0.5 before final compile/rendering
-$fa = 0.5; //Set to 0.5 before final compile/rendering
+$fs = 0.5; //Set to 1.5 during design, 0.5 before final compile/rendering
+$fa = 0.5; //Set to 1.0 during design, 0.5 before final compile/rendering
 dc = 20; //O.D of cylinder
 lb = 30; //length of blower part measured from the centerline of cylinder
 tb = 5; //outer thickness of blower part
